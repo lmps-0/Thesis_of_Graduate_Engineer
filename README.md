@@ -5,9 +5,9 @@ Files and scripts involved in my Bachelor's Thesis of the Mechanical Engineering
 1. **Subject, topic**: Implementation of a (Deep) Neural Network for the correction of plasticity effects in the hole drilling method for measuring residual stress
 2. **Motivation**: working with ANN (Machine Learning, Deep Learning), FEA, Simulation with Ansys APDL, mechanical metrology ASTM E837
 3. **Those involved in the project**: 
-4.  Prof. Armando Albertazzi Gonçalves Jr, Dr. Eng.; 
-5.  Matias Roberto Viotti, Dr. Eng.; 
-6.  Thiago Wilvert, Me. Eng.
+- Prof. Armando Albertazzi Gonçalves Jr, Dr. Eng.; 
+- Matias Roberto Viotti, Dr. Eng.; 
+- Thiago Wilvert, Me. Eng.
 7. **Company involved**: Metrology and Measurement Automation Laboratory - LABMETRO/EMC/UFSC
 8. **Steps**:
   - Study ASTM E837 and its limitations regarding the effects of plasticity (State of the art)

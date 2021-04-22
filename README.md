@@ -20,5 +20,7 @@ Files and scripts involved in my Bachelor's Thesis of the Mechanical Engineering
   - Train and validate neural network models 
   - Build and test different deep learning models, CNN, RNN, others (State of the art) 
 
+*** Python files will be released after June 2021.
+
 
 

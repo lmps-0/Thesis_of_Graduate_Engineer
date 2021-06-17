@@ -11,7 +11,7 @@ Files and scripts involved in my Bachelor's Thesis of the Mechanical Engineering
 **3. Those involved in the project**: 
 - Advisor:    Prof. Armando Albertazzi Gonçalves Jr, Dr. Eng.; 
 - Co-advisor: Matias Roberto Viotti, Dr. Eng.; 
-- Co-advisor: Thiago Wilvert, Me. Eng.
+- Co-advisor: Thiago Wilvert, Ms. Eng.
 
 **7. Company involved**: Metrology and Measurement Automation Laboratory - LABMETRO/EMC/UFSC
 

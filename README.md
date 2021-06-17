@@ -13,9 +13,9 @@ Files and scripts involved in my Bachelor's Thesis of the Mechanical Engineering
 - Co-advisor: Matias Roberto Viotti, Dr. Eng.; 
 - Co-advisor: Thiago Wilvert, Ms. Eng.
 
-**7. Company involved**: Metrology and Measurement Automation Laboratory - LABMETRO/EMC/UFSC
+**4. Company involved**: Metrology and Measurement Automation Laboratory - LABMETRO/EMC/UFSC
 
-**8. Steps**:
+**5. Steps**:
   - Study ASTM E837-13a and its limitations regarding the effects of plasticity (State of the art)
   - Develop simulation model considering plasticity effects
   - From simulated results establish neural network database

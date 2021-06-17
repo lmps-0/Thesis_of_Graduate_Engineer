@@ -6,13 +6,13 @@ Files and scripts involved in my Bachelor's Thesis of the Mechanical Engineering
 
 (Oil & Gas Industry)
 
-**2. Motivation**: working with ANN (Machine Learning, Deep Learning), FEA, Simulation with Ansys APDL, mechanical metrology, residual stress, the ASTM E837-13a
+**2. Motivation**: working with ANN (Machine Learning, Deep Learning), FEA, Simulation with Ansys APDL, mechanical metrology, residual stress, the ASTM E837-13a.
 
 **3. Those involved in the project**: 
 - Advisor:    Prof. Armando Albertazzi Gonçalves Jr, Dr. Eng.; 
 - Co-advisor: Matias Roberto Viotti, Dr. Eng.; 
 - Co-advisor: Thiago Wilvert, Me. Eng.
-- 
+
 **7. Company involved**: Metrology and Measurement Automation Laboratory - LABMETRO/EMC/UFSC
 
 **8. Steps**:

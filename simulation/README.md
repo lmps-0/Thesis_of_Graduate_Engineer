@@ -1,4 +1,4 @@
-# Developed scripts for simulation and data computation
+# Developed scripts for the FEM simulation and Data computation
 
 
 **Developed code in APDL for the execution of simulations** (Appendix B) 

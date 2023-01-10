@@ -1,4 +1,5 @@
-# Graduate Engineer's 
+# Graduate Engineer's Thesis
+
 Files and scripts involved in my Graduate Engineer's Thesis of the Mechanical Engineering Program at UFSC
 
 
